@@ -9,6 +9,9 @@
 /* Begin PBXBuildFile section */
 		02764C9622251D31008F963C /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02764C9522251D31008F963C /* main.swift */; };
 		02764C9D22251D4F008F963C /* LeetCode343_IntegerBreak.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02764C9C22251D4F008F963C /* LeetCode343_IntegerBreak.swift */; };
+		02764C9F222527E9008F963C /* LeetCode70_ClimbingStairs.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02764C9E222527E9008F963C /* LeetCode70_ClimbingStairs.swift */; };
+		02764CA12225307E008F963C /* LeetCode509_FibonacciNumber.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02764CA02225307E008F963C /* LeetCode509_FibonacciNumber.swift */; };
+		02764CA322253359008F963C /* LeetCode842_SplitArrayintoFibonacciSequence.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02764CA222253359008F963C /* LeetCode842_SplitArrayintoFibonacciSequence.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -27,6 +30,9 @@
 		02764C9222251D31008F963C /* LeetCodeTest */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = LeetCodeTest; sourceTree = BUILT_PRODUCTS_DIR; };
 		02764C9522251D31008F963C /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		02764C9C22251D4F008F963C /* LeetCode343_IntegerBreak.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LeetCode343_IntegerBreak.swift; sourceTree = "<group>"; };
+		02764C9E222527E9008F963C /* LeetCode70_ClimbingStairs.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LeetCode70_ClimbingStairs.swift; sourceTree = "<group>"; };
+		02764CA02225307E008F963C /* LeetCode509_FibonacciNumber.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LeetCode509_FibonacciNumber.swift; sourceTree = "<group>"; };
+		02764CA222253359008F963C /* LeetCode842_SplitArrayintoFibonacciSequence.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LeetCode842_SplitArrayintoFibonacciSequence.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,7 +66,10 @@
 			isa = PBXGroup;
 			children = (
 				02764C9522251D31008F963C /* main.swift */,
+				02764C9E222527E9008F963C /* LeetCode70_ClimbingStairs.swift */,
 				02764C9C22251D4F008F963C /* LeetCode343_IntegerBreak.swift */,
+				02764CA02225307E008F963C /* LeetCode509_FibonacciNumber.swift */,
+				02764CA222253359008F963C /* LeetCode842_SplitArrayintoFibonacciSequence.swift */,
 			);
 			path = LeetCodeTest;
 			sourceTree = "<group>";
@@ -123,7 +132,10 @@
 			buildActionMask = 2147483647;
 			files = (
 				02764C9D22251D4F008F963C /* LeetCode343_IntegerBreak.swift in Sources */,
+				02764CA322253359008F963C /* LeetCode842_SplitArrayintoFibonacciSequence.swift in Sources */,
 				02764C9622251D31008F963C /* main.swift in Sources */,
+				02764C9F222527E9008F963C /* LeetCode70_ClimbingStairs.swift in Sources */,
+				02764CA12225307E008F963C /* LeetCode509_FibonacciNumber.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

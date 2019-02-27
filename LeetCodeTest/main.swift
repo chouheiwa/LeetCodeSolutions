@@ -9,5 +9,3 @@
 import Foundation
 
 print("Hello, World!")
-
-print(Solution343Memory().integerBreak(10))
