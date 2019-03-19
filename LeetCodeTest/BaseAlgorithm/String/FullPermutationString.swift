@@ -10,6 +10,7 @@ import Foundation
 
 /// 问题:
 /// 任意给定一个字符串(不存在特殊字符以及中文等情况)，返回这个字符串所有可能排序
+/// 如给定字符串"123" 则返回["123","132","213","231","312","321"]
 class Solution {
     func premutation(_ string: String) -> [String] {
         // 将其转化成数组
@@ -26,18 +27,16 @@ class Solution {
 
     func exchange(_ array: [Int8], start: Int, end: Int, result: inout [String]) {
         var changeArray = array
-
         if start == end {
             // 在这里添加一个尾缀，直接初始化
             changeArray.append(0)
-
             result.append(changeArray.withUnsafeBufferPointer({String.init(cString: $0.baseAddress!)}))
-
             return
         }
 
         for index in start..<end {
             if changeArray[index] == changeArray[start] && index != start {
+                print("1111")
                 continue
             }
 
@@ -45,7 +44,7 @@ class Solution {
             changeArray[index] = changeArray[start]
             changeArray[start] = temp
 
-            exchange(changeArray, start: index + 1, end: end, result: &result)
+            exchange(changeArray, start: start + 1, end: end, result: &result)
         }
     }
 }
