@@ -81,13 +81,13 @@
 				02764C9522251D31008F963C /* main.swift */,
 				027DB13A2229308D0023487B /* 33SearchInRotatedSortedArray.swift */,
 				02764CA422265436008F963C /* LeetCode32_LongestValidParentheses.swift */,
-				027DB13922291A6E0023487B /* DP */,
+				027DB13922291A6E0023487B /* DP_动态规划 */,
 				02764CA222253359008F963C /* LeetCode842_SplitArrayintoFibonacciSequence.swift */,
 			);
 			path = LeetCodeTest;
 			sourceTree = "<group>";
 		};
-		027DB13922291A6E0023487B /* DP */ = {
+		027DB13922291A6E0023487B /* DP_动态规划 */ = {
 			isa = PBXGroup;
 			children = (
 				02764C9E222527E9008F963C /* LeetCode70_ClimbingStairs.swift */,
@@ -95,7 +95,7 @@
 				02764C9C22251D4F008F963C /* LeetCode343_IntegerBreak.swift */,
 				02764CA02225307E008F963C /* LeetCode509_FibonacciNumber.swift */,
 			);
-			path = DP;
+			path = "DP_动态规划";
 			sourceTree = "<group>";
 		};
 		027DB1F7222F59260023487B /* BaseAlgorithm */ = {
