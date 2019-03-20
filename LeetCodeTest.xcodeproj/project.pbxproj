@@ -18,6 +18,9 @@
 		027DB1FA222F706B0023487B /* RingList.swift in Sources */ = {isa = PBXBuildFile; fileRef = 027DB1F9222F706B0023487B /* RingList.swift */; };
 		027DB200222FB0620023487B /* BinaryTreeHeight.swift in Sources */ = {isa = PBXBuildFile; fileRef = 027DB1FF222FB0620023487B /* BinaryTreeHeight.swift */; };
 		02C4292F223F84E000FCD718 /* FullPermutationString.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02C4292E223F84E000FCD718 /* FullPermutationString.swift */; };
+		02C429312240EBEC00FCD718 /* 17LetterCombinationsofaPhoneNumber.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02C429302240EBEC00FCD718 /* 17LetterCombinationsofaPhoneNumber.swift */; };
+		02C42933224209AB00FCD718 /* 38CountAndSay.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02C42932224209AB00FCD718 /* 38CountAndSay.swift */; };
+		02C429352242100600FCD718 /* 39CombinationSum.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02C429342242100600FCD718 /* 39CombinationSum.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -45,6 +48,9 @@
 		027DB1F9222F706B0023487B /* RingList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RingList.swift; sourceTree = "<group>"; };
 		027DB1FF222FB0620023487B /* BinaryTreeHeight.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BinaryTreeHeight.swift; sourceTree = "<group>"; };
 		02C4292E223F84E000FCD718 /* FullPermutationString.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FullPermutationString.swift; sourceTree = "<group>"; };
+		02C429302240EBEC00FCD718 /* 17LetterCombinationsofaPhoneNumber.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 17LetterCombinationsofaPhoneNumber.swift; sourceTree = "<group>"; };
+		02C42932224209AB00FCD718 /* 38CountAndSay.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 38CountAndSay.swift; sourceTree = "<group>"; };
+		02C429342242100600FCD718 /* 39CombinationSum.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 39CombinationSum.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -77,9 +83,12 @@
 		02764C9422251D31008F963C /* LeetCodeTest */ = {
 			isa = PBXGroup;
 			children = (
-				027DB1F7222F59260023487B /* BaseAlgorithm */,
 				02764C9522251D31008F963C /* main.swift */,
+				027DB1F7222F59260023487B /* BaseAlgorithm */,
+				02C429302240EBEC00FCD718 /* 17LetterCombinationsofaPhoneNumber.swift */,
 				027DB13A2229308D0023487B /* 33SearchInRotatedSortedArray.swift */,
+				02C42932224209AB00FCD718 /* 38CountAndSay.swift */,
+				02C429342242100600FCD718 /* 39CombinationSum.swift */,
 				02764CA422265436008F963C /* LeetCode32_LongestValidParentheses.swift */,
 				027DB13922291A6E0023487B /* DP_动态规划 */,
 				02764CA222253359008F963C /* LeetCode842_SplitArrayintoFibonacciSequence.swift */,
@@ -190,12 +199,15 @@
 			buildActionMask = 2147483647;
 			files = (
 				02764C9D22251D4F008F963C /* LeetCode343_IntegerBreak.swift in Sources */,
+				02C42933224209AB00FCD718 /* 38CountAndSay.swift in Sources */,
 				02764CA322253359008F963C /* LeetCode842_SplitArrayintoFibonacciSequence.swift in Sources */,
 				02764CA722267BA1008F963C /* LeetCode198_HouseRobber.swift in Sources */,
 				027DB200222FB0620023487B /* BinaryTreeHeight.swift in Sources */,
 				02C4292F223F84E000FCD718 /* FullPermutationString.swift in Sources */,
 				02764CA522265436008F963C /* LeetCode32_LongestValidParentheses.swift in Sources */,
+				02C429312240EBEC00FCD718 /* 17LetterCombinationsofaPhoneNumber.swift in Sources */,
 				02764C9622251D31008F963C /* main.swift in Sources */,
+				02C429352242100600FCD718 /* 39CombinationSum.swift in Sources */,
 				02764C9F222527E9008F963C /* LeetCode70_ClimbingStairs.swift in Sources */,
 				027DB1FA222F706B0023487B /* RingList.swift in Sources */,
 				02764CA12225307E008F963C /* LeetCode509_FibonacciNumber.swift in Sources */,

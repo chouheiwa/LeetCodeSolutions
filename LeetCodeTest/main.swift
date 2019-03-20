@@ -10,4 +10,4 @@ import Foundation
 
 print("Hello, World!")
 
-print(Solution().premutation("123"))
+print(Solution38().countAndSay(3))
