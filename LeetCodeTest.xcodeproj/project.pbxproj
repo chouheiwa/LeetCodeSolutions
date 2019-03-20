@@ -21,6 +21,7 @@
 		02C429312240EBEC00FCD718 /* 17LetterCombinationsofaPhoneNumber.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02C429302240EBEC00FCD718 /* 17LetterCombinationsofaPhoneNumber.swift */; };
 		02C42933224209AB00FCD718 /* 38CountAndSay.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02C42932224209AB00FCD718 /* 38CountAndSay.swift */; };
 		02C429352242100600FCD718 /* 39CombinationSum.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02C429342242100600FCD718 /* 39CombinationSum.swift */; };
+		02C42937224235B300FCD718 /* 41FirstMissingpPositive.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02C42936224235B300FCD718 /* 41FirstMissingpPositive.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -51,6 +52,7 @@
 		02C429302240EBEC00FCD718 /* 17LetterCombinationsofaPhoneNumber.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 17LetterCombinationsofaPhoneNumber.swift; sourceTree = "<group>"; };
 		02C42932224209AB00FCD718 /* 38CountAndSay.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 38CountAndSay.swift; sourceTree = "<group>"; };
 		02C429342242100600FCD718 /* 39CombinationSum.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 39CombinationSum.swift; sourceTree = "<group>"; };
+		02C42936224235B300FCD718 /* 41FirstMissingpPositive.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 41FirstMissingpPositive.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -89,6 +91,7 @@
 				027DB13A2229308D0023487B /* 33SearchInRotatedSortedArray.swift */,
 				02C42932224209AB00FCD718 /* 38CountAndSay.swift */,
 				02C429342242100600FCD718 /* 39CombinationSum.swift */,
+				02C42936224235B300FCD718 /* 41FirstMissingpPositive.swift */,
 				02764CA422265436008F963C /* LeetCode32_LongestValidParentheses.swift */,
 				027DB13922291A6E0023487B /* DP_动态规划 */,
 				02764CA222253359008F963C /* LeetCode842_SplitArrayintoFibonacciSequence.swift */,
@@ -210,6 +213,7 @@
 				02C429352242100600FCD718 /* 39CombinationSum.swift in Sources */,
 				02764C9F222527E9008F963C /* LeetCode70_ClimbingStairs.swift in Sources */,
 				027DB1FA222F706B0023487B /* RingList.swift in Sources */,
+				02C42937224235B300FCD718 /* 41FirstMissingpPositive.swift in Sources */,
 				02764CA12225307E008F963C /* LeetCode509_FibonacciNumber.swift in Sources */,
 				027DB13B2229308D0023487B /* 33SearchInRotatedSortedArray.swift in Sources */,
 			);

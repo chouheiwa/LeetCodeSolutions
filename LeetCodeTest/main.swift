@@ -10,4 +10,4 @@ import Foundation
 
 print("Hello, World!")
 
-print(Solution38().countAndSay(3))
+print(Solution41().firstMissingPositive([1]))
