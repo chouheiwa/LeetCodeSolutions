@@ -10,4 +10,4 @@ import Foundation
 
 print("Hello, World!")
 
-print(Solution41().firstMissingPositive([1]))
+print(Solution929().numUniqueEmails(["test.email+alex@leetcode.com","test.e.mail+bob.cathy@leetcode.com","testemail+david@lee.tcode.com"]))
