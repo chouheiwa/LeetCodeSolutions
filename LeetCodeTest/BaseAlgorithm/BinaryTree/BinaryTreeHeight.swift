@@ -10,6 +10,7 @@ import Foundation
 
 // 问题:
 // 给定一个二叉树，求树高(从根节点，到最长的那个子节点的距离)
+// 该问题等同于 LeetCode 104
 
 class BinaryTreeHeightTree {
     var left: BinaryTreeHeightTree?
