@@ -41,6 +41,9 @@
 		02C4295A22448D0200FCD718 /* 922sort-array-by-parity-ii.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02C4295922448D0200FCD718 /* 922sort-array-by-parity-ii.swift */; };
 		02C4295C2244B58800FCD718 /* 944delete-columns-to-make-sorted.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02C4295B2244B58800FCD718 /* 944delete-columns-to-make-sorted.swift */; };
 		02C4295E2244BCEC00FCD718 /* 292nim-game.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02C4295D2244BCEC00FCD718 /* 292nim-game.swift */; };
+		02C429602244C07D00FCD718 /* 985sum-of-even-numbers-after-queries.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02C4295F2244C07D00FCD718 /* 985sum-of-even-numbers-after-queries.swift */; };
+		02C429622245293C00FCD718 /* 965univalued-binary-tree.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02C429612245293C00FCD718 /* 965univalued-binary-tree.swift */; };
+		02C4296422467E5B00FCD718 /* 500keyboard-row.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02C4296322467E5B00FCD718 /* 500keyboard-row.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -91,6 +94,9 @@
 		02C4295922448D0200FCD718 /* 922sort-array-by-parity-ii.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "922sort-array-by-parity-ii.swift"; sourceTree = "<group>"; };
 		02C4295B2244B58800FCD718 /* 944delete-columns-to-make-sorted.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "944delete-columns-to-make-sorted.swift"; sourceTree = "<group>"; };
 		02C4295D2244BCEC00FCD718 /* 292nim-game.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "292nim-game.swift"; sourceTree = "<group>"; };
+		02C4295F2244C07D00FCD718 /* 985sum-of-even-numbers-after-queries.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "985sum-of-even-numbers-after-queries.swift"; sourceTree = "<group>"; };
+		02C429612245293C00FCD718 /* 965univalued-binary-tree.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "965univalued-binary-tree.swift"; sourceTree = "<group>"; };
+		02C4296322467E5B00FCD718 /* 500keyboard-row.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "500keyboard-row.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -138,6 +144,7 @@
 				027DB13922291A6E0023487B /* DP_动态规划 */,
 				02C4294D22446D5E00FCD718 /* 461hamming-distance.swift */,
 				02C42955224485BF00FCD718 /* 476number-complement.swift */,
+				02C4296322467E5B00FCD718 /* 500keyboard-row.swift */,
 				02C4294F2244765A00FCD718 /* 617merge-two-binary-trees.swift */,
 				02C4293D22433BEF00FCD718 /* 709ToLowerCase.swift */,
 				02C4293B224338D200FCD718 /* 771JewelsAndStones.swift */,
@@ -151,7 +158,9 @@
 				02C4295B2244B58800FCD718 /* 944delete-columns-to-make-sorted.swift */,
 				02C42947224378FF00FCD718 /* 929unique-email-addresses.swift */,
 				02C4294B22438C4C00FCD718 /* 961n-repeated-element-in-size-2n-array.swift */,
+				02C429612245293C00FCD718 /* 965univalued-binary-tree.swift */,
 				02C4293F224357A000FCD718 /* 977SquaresOfASortedArray.swift */,
+				02C4295F2244C07D00FCD718 /* 985sum-of-even-numbers-after-queries.swift */,
 			);
 			path = LeetCodeTest;
 			sourceTree = "<group>";
@@ -271,6 +280,7 @@
 				02C4295E2244BCEC00FCD718 /* 292nim-game.swift in Sources */,
 				02C429502244765A00FCD718 /* 617merge-two-binary-trees.swift in Sources */,
 				027DB200222FB0620023487B /* BinaryTreeHeight.swift in Sources */,
+				02C429622245293C00FCD718 /* 965univalued-binary-tree.swift in Sources */,
 				02C4295422447B5400FCD718 /* 226invert-binary-tree.swift in Sources */,
 				02C42948224378FF00FCD718 /* 929unique-email-addresses.swift in Sources */,
 				02C4293C224338D200FCD718 /* 771JewelsAndStones.swift in Sources */,
@@ -281,9 +291,11 @@
 				02C4295C2244B58800FCD718 /* 944delete-columns-to-make-sorted.swift in Sources */,
 				02764CA522265436008F963C /* 32LongestValidParentheses.swift in Sources */,
 				02C429312240EBEC00FCD718 /* 17LetterCombinationsofaPhoneNumber.swift in Sources */,
+				02C4296422467E5B00FCD718 /* 500keyboard-row.swift in Sources */,
 				02C42946224370C000FCD718 /* 804UniqueMorseCodeWords.swift in Sources */,
 				02764C9622251D31008F963C /* main.swift in Sources */,
 				02C429352242100600FCD718 /* 39CombinationSum.swift in Sources */,
+				02C429602244C07D00FCD718 /* 985sum-of-even-numbers-after-queries.swift in Sources */,
 				02764C9F222527E9008F963C /* LeetCode70_ClimbingStairs.swift in Sources */,
 				02C4294E22446D5E00FCD718 /* 461hamming-distance.swift in Sources */,
 				02C429522244794E00FCD718 /* 104maximum-depth-of-binary-tree.swift in Sources */,
