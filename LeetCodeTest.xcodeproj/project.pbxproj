@@ -44,6 +44,9 @@
 		02C429602244C07D00FCD718 /* 985sum-of-even-numbers-after-queries.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02C4295F2244C07D00FCD718 /* 985sum-of-even-numbers-after-queries.swift */; };
 		02C429622245293C00FCD718 /* 965univalued-binary-tree.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02C429612245293C00FCD718 /* 965univalued-binary-tree.swift */; };
 		02C4296422467E5B00FCD718 /* 500keyboard-row.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02C4296322467E5B00FCD718 /* 500keyboard-row.swift */; };
+		02C42966224784E800FCD718 /* 700search-in-a-binary-search-tree.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02C42965224784E800FCD718 /* 700search-in-a-binary-search-tree.swift */; };
+		02C429682247918F00FCD718 /* 559maximum-depth-of-n-ary-tree.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02C429672247918F00FCD718 /* 559maximum-depth-of-n-ary-tree.swift */; };
+		02C4296A2247991700FCD718 /* 561array-partition-i.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02C429692247991700FCD718 /* 561array-partition-i.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -97,6 +100,9 @@
 		02C4295F2244C07D00FCD718 /* 985sum-of-even-numbers-after-queries.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "985sum-of-even-numbers-after-queries.swift"; sourceTree = "<group>"; };
 		02C429612245293C00FCD718 /* 965univalued-binary-tree.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "965univalued-binary-tree.swift"; sourceTree = "<group>"; };
 		02C4296322467E5B00FCD718 /* 500keyboard-row.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "500keyboard-row.swift"; sourceTree = "<group>"; };
+		02C42965224784E800FCD718 /* 700search-in-a-binary-search-tree.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "700search-in-a-binary-search-tree.swift"; sourceTree = "<group>"; };
+		02C429672247918F00FCD718 /* 559maximum-depth-of-n-ary-tree.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "559maximum-depth-of-n-ary-tree.swift"; sourceTree = "<group>"; };
+		02C429692247991700FCD718 /* 561array-partition-i.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "561array-partition-i.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -145,7 +151,10 @@
 				02C4294D22446D5E00FCD718 /* 461hamming-distance.swift */,
 				02C42955224485BF00FCD718 /* 476number-complement.swift */,
 				02C4296322467E5B00FCD718 /* 500keyboard-row.swift */,
+				02C429672247918F00FCD718 /* 559maximum-depth-of-n-ary-tree.swift */,
+				02C429692247991700FCD718 /* 561array-partition-i.swift */,
 				02C4294F2244765A00FCD718 /* 617merge-two-binary-trees.swift */,
+				02C42965224784E800FCD718 /* 700search-in-a-binary-search-tree.swift */,
 				02C4293D22433BEF00FCD718 /* 709ToLowerCase.swift */,
 				02C4293B224338D200FCD718 /* 771JewelsAndStones.swift */,
 				02C42945224370C000FCD718 /* 804UniqueMorseCodeWords.swift */,
@@ -280,6 +289,7 @@
 				02C4295E2244BCEC00FCD718 /* 292nim-game.swift in Sources */,
 				02C429502244765A00FCD718 /* 617merge-two-binary-trees.swift in Sources */,
 				027DB200222FB0620023487B /* BinaryTreeHeight.swift in Sources */,
+				02C42966224784E800FCD718 /* 700search-in-a-binary-search-tree.swift in Sources */,
 				02C429622245293C00FCD718 /* 965univalued-binary-tree.swift in Sources */,
 				02C4295422447B5400FCD718 /* 226invert-binary-tree.swift in Sources */,
 				02C42948224378FF00FCD718 /* 929unique-email-addresses.swift in Sources */,
@@ -301,7 +311,9 @@
 				02C429522244794E00FCD718 /* 104maximum-depth-of-binary-tree.swift in Sources */,
 				027DB1FA222F706B0023487B /* RingList.swift in Sources */,
 				02C42937224235B300FCD718 /* 41FirstMissingpPositive.swift in Sources */,
+				02C429682247918F00FCD718 /* 559maximum-depth-of-n-ary-tree.swift in Sources */,
 				02764CA12225307E008F963C /* LeetCode509_FibonacciNumber.swift in Sources */,
+				02C4296A2247991700FCD718 /* 561array-partition-i.swift in Sources */,
 				02C42940224357A000FCD718 /* 977SquaresOfASortedArray.swift in Sources */,
 				027DB13B2229308D0023487B /* 33SearchInRotatedSortedArray.swift in Sources */,
 			);
