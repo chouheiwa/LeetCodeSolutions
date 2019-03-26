@@ -16,15 +16,29 @@ func caculateTime(_ block: ()->Void) {
     print("执行当前命令消耗时间\(Date().timeIntervalSince(date))")
 }
 
-//var str = "a"
+//for item in Solution59().generateMatrix(5) {
+//    print(item)
+//}
 
-var list = [1]
+func judge(_ n: Int) {
 
-for _ in 0..<28 {
-    caculateTime {
-        print("当前字符串长度:\(list.count)")
+    let array = Solution89().grayCode(n)
+
+    var set: Set<Int> = Set()
+
+    for index in 2..<array.count {
+        assert(!set.contains(array[index]))
+
+        set.insert(array[index])
+
+        let result = array[index - 1] ^ array[index]
+
+        assert(result & (result - 1) == 0)
     }
-    list += list
+
+    
 }
+
+judge(11)
 
 

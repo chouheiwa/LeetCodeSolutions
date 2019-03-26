@@ -47,6 +47,18 @@
 		02C42966224784E800FCD718 /* 700search-in-a-binary-search-tree.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02C42965224784E800FCD718 /* 700search-in-a-binary-search-tree.swift */; };
 		02C429682247918F00FCD718 /* 559maximum-depth-of-n-ary-tree.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02C429672247918F00FCD718 /* 559maximum-depth-of-n-ary-tree.swift */; };
 		02C4296A2247991700FCD718 /* 561array-partition-i.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02C429692247991700FCD718 /* 561array-partition-i.swift */; };
+		02C4296C22486BF500FCD718 /* 908smallest-range-i.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02C4296B22486BF500FCD718 /* 908smallest-range-i.swift */; };
+		02C4296E2248714100FCD718 /* 171excel-sheet-column-number.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02C4296D2248714100FCD718 /* 171excel-sheet-column-number.swift */; };
+		02C429952248A1CE00FCD718 /* 344reverse-string.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02C429942248A1CE00FCD718 /* 344reverse-string.swift */; };
+		02C429972248CA4900FCD718 /* 122best-time-to-buy-and-sell-stock-ii.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02C429962248CA4900FCD718 /* 122best-time-to-buy-and-sell-stock-ii.swift */; };
+		02C429992248CE2000FCD718 /* 121best-time-to-buy-and-sell-stock.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02C429982248CE2000FCD718 /* 121best-time-to-buy-and-sell-stock.swift */; };
+		02C4299B2248D42400FCD718 /* 155min-stack.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02C4299A2248D42400FCD718 /* 155min-stack.swift */; };
+		02C4299D2248D7F900FCD718 /* 231power-of-two.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02C4299C2248D7F900FCD718 /* 231power-of-two.swift */; };
+		02C4299F2249B03800FCD718 /* 53maximum-subarray.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02C4299E2249B03800FCD718 /* 53maximum-subarray.swift */; };
+		02C429A12249B5F200FCD718 /* 78subsets.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02C429A02249B5F200FCD718 /* 78subsets.swift */; };
+		02C429A32249B9F100FCD718 /* 59spiral-matrix-ii.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02C429A22249B9F100FCD718 /* 59spiral-matrix-ii.swift */; };
+		02C429A52249C54400FCD718 /* 46permutations.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02C429A42249C54400FCD718 /* 46permutations.swift */; };
+		02C429A72249CE5A00FCD718 /* 89gray-code.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02C429A62249CE5A00FCD718 /* 89gray-code.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -103,6 +115,18 @@
 		02C42965224784E800FCD718 /* 700search-in-a-binary-search-tree.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "700search-in-a-binary-search-tree.swift"; sourceTree = "<group>"; };
 		02C429672247918F00FCD718 /* 559maximum-depth-of-n-ary-tree.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "559maximum-depth-of-n-ary-tree.swift"; sourceTree = "<group>"; };
 		02C429692247991700FCD718 /* 561array-partition-i.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "561array-partition-i.swift"; sourceTree = "<group>"; };
+		02C4296B22486BF500FCD718 /* 908smallest-range-i.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "908smallest-range-i.swift"; sourceTree = "<group>"; };
+		02C4296D2248714100FCD718 /* 171excel-sheet-column-number.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "171excel-sheet-column-number.swift"; sourceTree = "<group>"; };
+		02C429942248A1CE00FCD718 /* 344reverse-string.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "344reverse-string.swift"; sourceTree = "<group>"; };
+		02C429962248CA4900FCD718 /* 122best-time-to-buy-and-sell-stock-ii.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "122best-time-to-buy-and-sell-stock-ii.swift"; sourceTree = "<group>"; };
+		02C429982248CE2000FCD718 /* 121best-time-to-buy-and-sell-stock.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "121best-time-to-buy-and-sell-stock.swift"; sourceTree = "<group>"; };
+		02C4299A2248D42400FCD718 /* 155min-stack.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "155min-stack.swift"; sourceTree = "<group>"; };
+		02C4299C2248D7F900FCD718 /* 231power-of-two.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "231power-of-two.swift"; sourceTree = "<group>"; };
+		02C4299E2249B03800FCD718 /* 53maximum-subarray.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "53maximum-subarray.swift"; sourceTree = "<group>"; };
+		02C429A02249B5F200FCD718 /* 78subsets.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 78subsets.swift; sourceTree = "<group>"; };
+		02C429A22249B9F100FCD718 /* 59spiral-matrix-ii.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "59spiral-matrix-ii.swift"; sourceTree = "<group>"; };
+		02C429A42249C54400FCD718 /* 46permutations.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 46permutations.swift; sourceTree = "<group>"; };
+		02C429A62249CE5A00FCD718 /* 89gray-code.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "89gray-code.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -138,15 +162,26 @@
 				02764C9522251D31008F963C /* main.swift */,
 				027DB1F7222F59260023487B /* BaseAlgorithm */,
 				02C429302240EBEC00FCD718 /* 17LetterCombinationsofaPhoneNumber.swift */,
+				02764CA422265436008F963C /* 32LongestValidParentheses.swift */,
 				027DB13A2229308D0023487B /* 33SearchInRotatedSortedArray.swift */,
 				02C42932224209AB00FCD718 /* 38CountAndSay.swift */,
 				02C429342242100600FCD718 /* 39CombinationSum.swift */,
 				02C4293822431F2C00FCD718 /* 40CombinationSumII.swift */,
 				02C42936224235B300FCD718 /* 41FirstMissingpPositive.swift */,
-				02764CA422265436008F963C /* 32LongestValidParentheses.swift */,
+				02C429A42249C54400FCD718 /* 46permutations.swift */,
+				02C4299E2249B03800FCD718 /* 53maximum-subarray.swift */,
+				02C429A22249B9F100FCD718 /* 59spiral-matrix-ii.swift */,
+				02C429A02249B5F200FCD718 /* 78subsets.swift */,
+				02C429A62249CE5A00FCD718 /* 89gray-code.swift */,
 				02C429512244794E00FCD718 /* 104maximum-depth-of-binary-tree.swift */,
+				02C429982248CE2000FCD718 /* 121best-time-to-buy-and-sell-stock.swift */,
+				02C429962248CA4900FCD718 /* 122best-time-to-buy-and-sell-stock-ii.swift */,
+				02C4299A2248D42400FCD718 /* 155min-stack.swift */,
+				02C4296D2248714100FCD718 /* 171excel-sheet-column-number.swift */,
 				02C4295322447B5400FCD718 /* 226invert-binary-tree.swift */,
+				02C4299C2248D7F900FCD718 /* 231power-of-two.swift */,
 				02C4295D2244BCEC00FCD718 /* 292nim-game.swift */,
+				02C429942248A1CE00FCD718 /* 344reverse-string.swift */,
 				027DB13922291A6E0023487B /* DP_动态规划 */,
 				02C4294D22446D5E00FCD718 /* 461hamming-distance.swift */,
 				02C42955224485BF00FCD718 /* 476number-complement.swift */,
@@ -162,6 +197,7 @@
 				02764CA222253359008F963C /* 842SplitArrayintoFibonacciSequence.swift */,
 				02C429572244893000FCD718 /* 852peak-index-in-a-mountain-array.swift */,
 				02C4294922437E4B00FCD718 /* 905sort-array-by-parity.swift */,
+				02C4296B22486BF500FCD718 /* 908smallest-range-i.swift */,
 				02C4295922448D0200FCD718 /* 922sort-array-by-parity-ii.swift */,
 				02C42941224364C800FCD718 /* 942DiStringMatch.swift */,
 				02C4295B2244B58800FCD718 /* 944delete-columns-to-make-sorted.swift */,
@@ -279,6 +315,7 @@
 				02C4294A22437E4B00FCD718 /* 905sort-array-by-parity.swift in Sources */,
 				02764C9D22251D4F008F963C /* LeetCode343_IntegerBreak.swift in Sources */,
 				02C42942224364C800FCD718 /* 942DiStringMatch.swift in Sources */,
+				02C429992248CE2000FCD718 /* 121best-time-to-buy-and-sell-stock.swift in Sources */,
 				02C429582244893000FCD718 /* 852peak-index-in-a-mountain-array.swift in Sources */,
 				02C4293922431F2C00FCD718 /* 40CombinationSumII.swift in Sources */,
 				02C429442243698B00FCD718 /* 832FlippingAnImage.swift in Sources */,
@@ -290,6 +327,7 @@
 				02C429502244765A00FCD718 /* 617merge-two-binary-trees.swift in Sources */,
 				027DB200222FB0620023487B /* BinaryTreeHeight.swift in Sources */,
 				02C42966224784E800FCD718 /* 700search-in-a-binary-search-tree.swift in Sources */,
+				02C4299F2249B03800FCD718 /* 53maximum-subarray.swift in Sources */,
 				02C429622245293C00FCD718 /* 965univalued-binary-tree.swift in Sources */,
 				02C4295422447B5400FCD718 /* 226invert-binary-tree.swift in Sources */,
 				02C42948224378FF00FCD718 /* 929unique-email-addresses.swift in Sources */,
@@ -297,6 +335,7 @@
 				02C4294C22438C4C00FCD718 /* 961n-repeated-element-in-size-2n-array.swift in Sources */,
 				02C4293E22433BEF00FCD718 /* 709ToLowerCase.swift in Sources */,
 				02C4292F223F84E000FCD718 /* FullPermutationString.swift in Sources */,
+				02C429A52249C54400FCD718 /* 46permutations.swift in Sources */,
 				02C4295A22448D0200FCD718 /* 922sort-array-by-parity-ii.swift in Sources */,
 				02C4295C2244B58800FCD718 /* 944delete-columns-to-make-sorted.swift in Sources */,
 				02764CA522265436008F963C /* 32LongestValidParentheses.swift in Sources */,
@@ -304,14 +343,23 @@
 				02C4296422467E5B00FCD718 /* 500keyboard-row.swift in Sources */,
 				02C42946224370C000FCD718 /* 804UniqueMorseCodeWords.swift in Sources */,
 				02764C9622251D31008F963C /* main.swift in Sources */,
+				02C4296E2248714100FCD718 /* 171excel-sheet-column-number.swift in Sources */,
+				02C429A72249CE5A00FCD718 /* 89gray-code.swift in Sources */,
 				02C429352242100600FCD718 /* 39CombinationSum.swift in Sources */,
+				02C4299B2248D42400FCD718 /* 155min-stack.swift in Sources */,
 				02C429602244C07D00FCD718 /* 985sum-of-even-numbers-after-queries.swift in Sources */,
 				02764C9F222527E9008F963C /* LeetCode70_ClimbingStairs.swift in Sources */,
+				02C429A12249B5F200FCD718 /* 78subsets.swift in Sources */,
 				02C4294E22446D5E00FCD718 /* 461hamming-distance.swift in Sources */,
 				02C429522244794E00FCD718 /* 104maximum-depth-of-binary-tree.swift in Sources */,
 				027DB1FA222F706B0023487B /* RingList.swift in Sources */,
+				02C4296C22486BF500FCD718 /* 908smallest-range-i.swift in Sources */,
+				02C429952248A1CE00FCD718 /* 344reverse-string.swift in Sources */,
 				02C42937224235B300FCD718 /* 41FirstMissingpPositive.swift in Sources */,
 				02C429682247918F00FCD718 /* 559maximum-depth-of-n-ary-tree.swift in Sources */,
+				02C429A32249B9F100FCD718 /* 59spiral-matrix-ii.swift in Sources */,
+				02C4299D2248D7F900FCD718 /* 231power-of-two.swift in Sources */,
+				02C429972248CA4900FCD718 /* 122best-time-to-buy-and-sell-stock-ii.swift in Sources */,
 				02764CA12225307E008F963C /* LeetCode509_FibonacciNumber.swift in Sources */,
 				02C4296A2247991700FCD718 /* 561array-partition-i.swift in Sources */,
 				02C42940224357A000FCD718 /* 977SquaresOfASortedArray.swift in Sources */,
